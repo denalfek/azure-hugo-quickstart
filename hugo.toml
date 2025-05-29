@@ -2,3 +2,62 @@ baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = '''Hi! I'm Denis'''
 theme = 'ananke'
+
+[languages]
+
+  [languages.en]
+    languageName = "🇬🇧 English"
+    weight = 1
+    contentDir = "content/en"
+
+  # English menu
+  [[languages.en.menu.main]]
+    name = "💼 Work"
+    url = "/work/"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    name = "🏃‍♂️ Sport"
+    url = "/sport/"
+    weight = 3
+  
+  [[languages.en.menu.main]]
+    name = "🌍 Travel"
+    url = "/travel/"
+    weight = 4
+  
+  [[languages.en.menu.main]]
+    name = "🌍 Posts"
+    url = "/posts/"
+    weight = 4
+
+  [[languages.en.menu.main]]
+    name = "📄 CV"
+    url = "/cv/"
+    weight = 5
+
+  [languages.ru]
+    languageName = "🇷🇺 Русский"
+    weight = 1
+    contentDir = "content/ru"
+
+  # Russian menu
+  [[languages.ru.menu.main]]
+    name = "💼 Работа"
+    url = "/work/"
+    weight = 2
+  
+  [[languages.ru.menu.main]]
+    name = "🏃‍♂️ Спорт"
+    url = "/sport/"
+    weight = 3
+  
+  [[languages.ru.menu.main]]
+    name = "🌍 Путешествия"
+    url = "/travel/"
+    weight = 4
+  
+  [[languages.ru.menu.main]]
+    name = "📄 Резюме"
+    url = "/cv/"
+    weight = 5
