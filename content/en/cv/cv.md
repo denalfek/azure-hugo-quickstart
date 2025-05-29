@@ -1,4 +1,6 @@
 +++
+url = '/en/cv/'
+slug = 'cv'
 date = '2025-05-26T13:18:12+07:00'
 draft = false
 title = 'CV'
@@ -30,7 +32,7 @@ Leading a cross-functional team in the development of financial marketplace serv
 ---
 
 ### **.NET Full-stack Developer**  
-**Robomed** · Full-time  
+**Robomed systems** · Full-time  
 📍 Moscow, Russia (Remote) · 🗓️ Jul 2020 – Sep 2022 (2 yrs 3 mos)
 
 - Created detailed technical specifications based on reverse-engineering of legacy systems to ensure clarity and completeness of requirements.

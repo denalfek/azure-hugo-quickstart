@@ -1,74 +1,74 @@
 +++
+url = '/ru/cv/'
+slug = 'cv'
 date = '2025-05-26T13:18:12+07:00'
 draft = false
-title = 'CV'
+title = 'Резюме'
 +++
 
 # 👨‍💻 Senior Full-Stack .NET Developer
 
-## 📌 Summary
+## 📌 Резюме
 
-Experienced full-stack .NET developer with a strong background in building high-load, scalable web applications. Proven track record in both backend and frontend development, technical leadership, and cross-functional team collaboration. Passionate about clean code, software architecture, and delivering real business value through technology.
-
----
-
-## 🧑‍💻 Experience
-
-### **Development Team Lead**  
-**vbr.ru Financial Marketplace** · Full-time  
-📍 Russia (Remote) · 🗓️ Sep 2022 – Present
-
-Leading a cross-functional team in the development of financial marketplace services.
-
-- Gather and clarify business requirements, decompose tasks, and assess complexity.
-- Oversee technical planning and implementation of features across frontend and backend services.
-- Make architectural and ownership decisions (e.g., which microservice or team should handle a feature).
-- Perform code reviews, plan and coordinate deployments, and maintain quality standards.
-- Onboard and support new team members, fostering a collaborative development environment.
-- Define and improve internal processes for task execution and technical operations.
+Опытный full-stack .NET разработчик с сильным бэкграундом в создании высоконагруженных и масштабируемых веб-приложений. Имеет подтверждённый опыт как в backend-, так и во frontend-разработке, техническом лидерстве и кросс-функциональном взаимодействии. Увлечён чистым кодом, архитектурой программного обеспечения и созданием решений, приносящих реальную бизнес-ценность.
 
 ---
 
-### **.NET Full-stack Developer**  
-**Robomed** · Full-time  
-📍 Moscow, Russia (Remote) · 🗓️ Jul 2020 – Sep 2022 (2 yrs 3 mos)
+## 🧑‍💻 Опыт
 
-- Created detailed technical specifications based on reverse-engineering of legacy systems to ensure clarity and completeness of requirements.
-- Conducted large-scale refactoring to improve code maintainability, flexibility, and readability.
-- Developed modular tests to increase code stability and reliability.
-- Enhanced admin panel functionality by building standalone frontend modules to improve the user experience.
+### **Team Lead в разработке**  
+**vbr.ru Выберу Маркетплейс** · Full-time  
+📍 Россия (удалённо) · 🗓️ Сентябрь 2022 – по настоящее время
+
+Руководство кросс-функциональной командой при разработке сервисов финансового маркетплейса.
+
+- Сбор и уточнение бизнес-требований, декомпозиция задач, оценка их сложности.
+- Техническое планирование и реализация фич на фронтенде и бэкенде.
+- Принятие архитектурных решений и распределение зон ответственности между микросервисами и командами.
+- Проведение code review, планирование релизов и контроль качества кода.
+- Онбординг и поддержка новых членов команды, развитие командной культуры.
+- Улучшение внутренних процессов разработки и технического взаимодействия.
 
 ---
 
-### **.NET Full-stack Developer**  
+### **.NET Full-stack разработчик**  
+**Robomed systems** · Full-time  
+📍 Москва, Россия (удалённо) · 🗓️ Июль 2020 – Сентябрь 2022 (2 года 3 месяца)
+
+- Писал технические спецификации на основе реверс-инжиниринга легаси-систем, чтобы обеспечить полноту и чёткость требований.
+- Проводил масштабный рефакторинг для повышения читаемости, гибкости и сопровождаемости кода.
+- Разрабатывал модульные тесты для повышения стабильности и надёжности системы.
+- Улучшал функциональность админки, создавая изолированные frontend-модули для лучшего UX.
+
+---
+
+### **.NET Full-stack разработчик**  
 **Sintek** · Full-time  
-📍 Tula Region, Russia · 🗓️ Aug 2017 – Jun 2020 (2 yrs 11 mos)
+📍 Тульская область, Россия · 🗓️ Август 2017 – Июнь 2020 (2 года 11 месяцев)
 
-- Developed a user analytics module, significantly improving data accuracy and processing speed.
-- Optimized visitor metrics calculation, reducing processing time and enhancing overall system performance.
-- Built an admin panel module that enabled content managers to efficiently manage and edit articles.
-- Implemented a change tracking system to log article modifications and authors, ensuring transparency and accountability.
-
----
-
-## 🛠️ Skills
-
-- **Languages**: C#, JavaScript, TypeScript, SQL, BASH
-- **Backend**: ASP.NET Core, Entity Framework, REST APIs
-- **Frontend**: Angular, React, HTML, CSS
-- **Databases**: SQL Server, PostgreSQL, MongoDB
-- **Tools**: Git, Docker, Redis, RabbitMQ
-- **Testing**: xUnit, Moq, Postman
-- **DevOps**: CI/CD, GitHub Actions, Azure DevOps
-- **Architecture**: Microservices, DDD, Clean Architecture, SOLID
+- Разработал модуль пользовательской аналитики, повысив точность данных и скорость обработки.
+- Оптимизировал расчёт метрик посещаемости, что снизило время обработки и улучшило производительность системы.
+- Создал модуль админки, позволивший контент-менеджерам удобно управлять и редактировать статьи.
+- Реализовал систему отслеживания изменений в статьях с логированием авторов и правок для повышения прозрачности.
 
 ---
 
-## 📫 Contact
+## 🛠️ Навыки
 
-- ✉️ Email: [denalfek@gmail.com](mailto:denalfek@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/denalfek](https://linkedin.com/in/denalfek)
-- 💬 Telegram: [@denalfek](https://t.me/denalfek)
+- **Языки**: C#, JavaScript, TypeScript, SQL, BASH  
+- **Backend**: ASP.NET Core, Entity Framework, REST APIs  
+- **Frontend**: Angular, React, HTML, CSS  
+- **Базы данных**: SQL Server, PostgreSQL, MongoDB  
+- **Инструменты**: Git, Docker, Redis, RabbitMQ  
+- **Тестирование**: xUnit, Moq, Postman  
+- **DevOps**: CI/CD, GitHub Actions, Azure DevOps  
+- **Архитектура**: Микросервисы, DDD, Чистая архитектура, SOLID
+
+---
+
+## 📫 Контакты
+
+- ✉️ Email: [denalfek@gmail.com](mailto:denalfek@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/denalfek](https://linkedin.com/in/denalfek)  
+- 💬 Telegram: [@denalfek](https://t.me/denalfek)  
 - 🌐 GitHub: [github.com/denalfek](https://github.com/denalfek)
-
----
